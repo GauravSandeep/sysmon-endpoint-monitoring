@@ -26,7 +26,7 @@ This project demonstrates endpoint monitoring and threat detection using Sysmon 
 ## Key Event IDs Monitored
 
 | Event ID | Description |
-
+|---|---|
 | 1 | Process Creation |
 | 3 | Network Connection |
 | 5 | Process Termination |
@@ -73,7 +73,7 @@ This project demonstrates endpoint monitoring and threat detection using Sysmon 
 ## MITRE ATT&CK Mapping
 
 | Technique | Description |
-
+|---|---|
 | T1059 | Command and Scripting Interpreter |
 | T1049 | System Network Connections Discovery |
 | T1105 | Ingress Tool Transfer |
